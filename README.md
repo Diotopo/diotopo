@@ -1,16 +1,24 @@
-## Hi there 👋
+Diotopo is a free software for topology optimization.
 
-<!--
-**Diotopo/diotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It was created by me after several days of searching for a free and good working topology optimization software for 3D printing purposes, that seemed not to exist...
 
-Here are some ideas to get you started:
+...until now!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It is named and themed after my beloved Eurasier dog Dio.
+
+Currently it is available in following languages:
+1. German
+2. English
+
+In the mainfolder you will find 5 subfolders:
+1. Webversion
+2. Portable Version
+3. Windows Installer
+4. Linux Installer
+5. Mac Installer
+Its only tested on Web and Windows 11!
+
+You can support me here to buy Dio the dogfood he deserves.
+Any amount is fine and helps, thank you very much!
+
+paypal.me/diotopo
