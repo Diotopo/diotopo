@@ -11,12 +11,14 @@ It is named and themed after my beloved Eurasier dog Dio.
 In the mainfolder you will find 2 folders with available languages:
 1. German
 2. English
+   
 and 5 subfolders with the different systems:
 1. Webversion
 2. Portable Version
 3. Windows Installer
 4. Linux Installer
 5. Mac Installer
+
 Its only tested on Web and Windows 11!
 
 You can support me here to buy Dio the dogfood he deserves.
