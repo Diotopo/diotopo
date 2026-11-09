@@ -9,7 +9,7 @@ It is named and themed after my beloved Eurasier dog Dio.
 
 
 In the mainfolder you will find 2 folders with available languages:
-1. German
+1. Deutsch
 2. English
    
 and 5 subfolders with the different systems:
