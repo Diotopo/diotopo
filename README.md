@@ -6,11 +6,12 @@ It was created by me after several days of searching for a free and good working
 
 It is named and themed after my beloved Eurasier dog Dio.
 
-Currently it is available in following languages:
+
+
+In the mainfolder you will find 2 folders with available languages:
 1. German
 2. English
-
-In the mainfolder you will find 5 subfolders:
+and 5 subfolders with the different systems:
 1. Webversion
 2. Portable Version
 3. Windows Installer
