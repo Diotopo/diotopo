@@ -2,7 +2,7 @@ Diotopo is a free software for topology optimization.
 
 It was created by me after several days of searching for a free and good working topology optimization software for 3D printing purposes, that seemed not to exist...
 
-...until now!
+... until now!
 
 It is named and themed after my beloved Eurasier dog Dio.
 
